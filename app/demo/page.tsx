@@ -14,8 +14,8 @@ const platformData = {
     { id: 'team', label: 'Our Team', icon: '👥' },
   ],
   closingDocuments: {
-    title: "csd-seed - Closing Document Set",
-    subtitle: "Documents related to the closing of the csd-seed financing round.",
+    title: "Whatchado Gmbh - Closing Document Set",
+    subtitle: "Documents related to the closing of the Whatchado Gmbh financing round.",
 
 
     documents: [
@@ -1047,3 +1047,4 @@ const LawPlatformApp = () => {
 };
 
 export default LawPlatformApp;
+
